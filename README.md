@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Wilson</h1>
 <h3 align="center">A software engineering student at the University of Waterloo</h3>
 
-- 🔭 I’m currently working on a [full-stack web-app](https://github.com/zyrephus/wilsons-blog) where I can post blogs in-depth LeetCode solutions in the hopes of strengthening other peoples' and my own skills on technical problems.
-- 🌱 I’m currently learning **the MERN stack**, more specifically the backend side of it
 - 📫 How to reach me **wilsonchen315@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
