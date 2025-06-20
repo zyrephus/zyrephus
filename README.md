@@ -2,6 +2,7 @@
 
 ```
 Hello, I'm Wilson. 👋
+
 I'm currently studying Software Engineering at the University of Waterloo.
 I like travelling, lifting, and watching basketball.
 ```
